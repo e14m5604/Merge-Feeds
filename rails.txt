@@ -1,0 +1,3 @@
+https://qiita.com/tags/rails/feed
+https://techracho.bpsinc.jp/feed/atom
+https://zenn.dev/topics/rails/feed
