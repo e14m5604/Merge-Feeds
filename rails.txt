@@ -1,4 +1,0 @@
-https://qiita.com/tags/rails/feed
-https://techfeed.io/feeds/channels/Ruby%20on%20Rails?userId=5feeb32d20f32e8e3419bd70
-https://techracho.bpsinc.jp/feed/atom
-https://zenn.dev/topics/rails/feed

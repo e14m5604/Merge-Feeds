@@ -1,6 +1,6 @@
 # Merge Feeds
 
-`https://e14m5604.github.io/Merge-Feeds/rails.xml`
+`https://e14m5604.github.io/Merge-Feeds/news.xml`
 
 ## feedparser
 
