@@ -23,10 +23,10 @@ def merge_entries(urls):
 
 
 def merge_feeds(fg, entries):
-    entry_id = ""
+    title = ""
     for entry in entries:
-        if entry.id != entry_id:
-            entry_id = entry.id
+        if entry.title != title:
+            title = entry.title
             fe = fg.add_entry()
             fe.id(entry.id)
             fe.title(entry.title)
