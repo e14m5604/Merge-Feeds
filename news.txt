@@ -1,3 +1,4 @@
+https://cprss.s3.amazonaws.com/rubyweekly.com.xml
 https://qiita.com/tags/docker/feed
 https://qiita.com/tags/rails/feed
 https://techfeed.io/feeds/channels/Docker
