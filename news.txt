@@ -1,6 +1,8 @@
 https://cprss.s3.amazonaws.com/rubyweekly.com.xml
+https://googledevjp.blogspot.com/atom.xml
 https://qiita.com/tags/docker/feed
 https://qiita.com/tags/rails/feed
+https://techfeed.io/feeds/categories/Favorite?userId=5feeb32d20f32e8e3419bd70
 https://techfeed.io/feeds/channels/Docker
 https://techfeed.io/feeds/channels/Java
 https://techfeed.io/feeds/channels/Ruby%20on%20Rails
