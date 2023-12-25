@@ -10,6 +10,7 @@ https://techfeed.io/feeds/channels/Security
 https://techfeed.io/feeds/channels/Vim
 https://techfeed.io/feeds/channels/Vulnerability
 https://techracho.bpsinc.jp/feed/atom
+https://vim-jp.org/ekiden/rss.xml
 https://zenn.dev/topics/docker/feed
 https://zenn.dev/topics/rails/feed
 https://zenn.dev/topics/vim/feed
